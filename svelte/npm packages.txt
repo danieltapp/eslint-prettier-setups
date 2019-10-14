@@ -1,0 +1,1 @@
+eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-svelte3 prettier prettier-plugin-svelte
